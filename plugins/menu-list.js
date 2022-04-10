@@ -340,6 +340,9 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
                   "title": "☰ TOOLS MENU",
                   "description": "Menampilkan Menu Tools",
                   "rowId": `${_p}? tools`
+                }, {
+                  "title": "Follow My Insta",
+                  "description": "Follow Gratis Bang"
                 }
                   ],
                 "title": "LIST MENU"
