@@ -8,7 +8,7 @@ const q = {
 	},
 	"message": {
 		"contactMessage": {
-			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Elyas Gantwng;;;FN:Elyas Ganteng\nORG:Elyas Ganteng;\nTEL;type=CELL;type=VOICE;waid=6285643354073:+62 856-4335-4073\nEND:VCARD"
+			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Elyas Gantwng;;;FN:Elyas Ganteng\nORG:Elyas Ganteng;\nTEL;type=CELL;type=VOICE;waid=6288276765449:+62 882-7676-5449\nEND:VCARD"
 		}
 	},
 	"participant": "0@s.whatsapp.net"
